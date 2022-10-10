@@ -1,6 +1,8 @@
 # cementstrengthprediction
 
-problem satements :- To build a regression model to predicts the concrete compressive strength based on the different feature in the training date.
+[Problem Statement.docx](https://github.com/pijush2022/cementstrengthprediction/files/9743470/Problem.Statement.docx)
 
-Flow chart: 
+ 
+
+
 
